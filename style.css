@@ -193,7 +193,7 @@ li{
 }
 
 .remove-btn:hover{
-  opacity: 0.7;
-  color: red;
+  opacity: 1;
+  color: #3A69D2;
   cursor: pointer;
 }
