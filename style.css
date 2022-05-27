@@ -194,4 +194,6 @@ li{
 
 .remove-btn:hover{
   opacity: 1;
+  color: red;
+  cursor: pointer;
 }
